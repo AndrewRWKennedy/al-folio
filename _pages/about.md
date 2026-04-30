@@ -17,7 +17,7 @@ profile:
 
 news: false
 selected_papers: false
-social: true
+social: false
 ---
 
 I am a fourth-year PhD student in Economics at the University of Chicago. My research spans applied microeconomics, experimental economics, and health economics, with a particular focus on causal inference and the methodology of hypothesis testing in economics.
