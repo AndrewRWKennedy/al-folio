@@ -21,3 +21,5 @@ social: false
 Welcome! I am a fourth-year PhD student in Economics at the University of Chicago. My research spans applied microeconomics, using both experimental and quasi-experimental approachs to achieve causal inference. I also have an interest in methods, focussing on multiple hypothesis testing within economics.
 
 I am originally from New Zealand.
+
+You can contact me at: [andrewkennedy@uchicago.edu](mailto:andrewkennedy@uchicago.edu)
