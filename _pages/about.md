@@ -1,16 +1,17 @@
 ---
 layout: about
-title: Home
+title: about
 permalink: /
+subtitle:
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>Department of Economics</p>
-    <p>University of Chicago</p>
-    <p><a href="mailto:andrewkennedy@uchicago.edu">andrewkennedy@uchicago.edu</a></p>
+    <p style="font-family: sans-serif; font-size: 0.85em;">Department of Economics, University of Chicago</p>
+    <p style="font-family: sans-serif; font-size: 0.85em;">5757 S. University Ave, Chicago, IL 60637</p>
+    <p style="font-family: sans-serif; font-size: 0.85em;"><a href="mailto:andrewkennedy@uchicago.edu">andrewkennedy@uchicago.edu</a></p>
 
 news: false
 selected_papers: false
